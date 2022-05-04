@@ -2,8 +2,7 @@
 
 ### Fastcampus
 1. The RED : 조은의 프론트엔드 실무 가이드 : 요구사항 분석과 적정 기술 
-
-
+2. TypeScript & Angular 실전 올인원 패키지 Online.
 
 
 
