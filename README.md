@@ -47,6 +47,7 @@
 - 리액트 스타일 가이드
 - 리액트 웹앱 제작 총론 2/e
 - Do it! 클론 코딩 영화 평점 웹서비스
+- ReactJS 이정도는 알아야지
 
 ### 📒 Network, Server, DataBase, SQL, Oracle...
 - 그림으로 배우는 네트워크 원리
