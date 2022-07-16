@@ -14,6 +14,7 @@
 - HTML+CSS+JS 포트폴리오 실전 퍼블리싱(시즌1)
 - 함수형 프로그래밍과 JavaScript ES6+
 - 함수형 프로그래밍과 Javascript ES6+ 응용편
+- Next.js 시작하기
 
 ### 📕 HTML, CSS, JS, jQuery
 - 자바스크립트 + jQuery 완전정복 스터디 (기초편)
