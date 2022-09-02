@@ -46,6 +46,7 @@
 - 직무중심의 인력양성을 위한 웹 개발입문 HTML5&CSS3
 - 오늘부터 자바스크립트
 - Let's Get IT 자바스크립트 프로그래밍
+- 클론 코딩 Zoom
 
 ### 📗 React, ReactNative
 - 러닝리액트
@@ -53,7 +54,7 @@
 - 리액트 웹앱 제작 총론 2/e
 - Do it! 클론 코딩 영화 평점 웹서비스
 - ReactJS 이정도는 알아야지
-- 실무 예제로 배우는 ReactJS 완전정복
+- 소플의 처음 만난 리액트
 
 ### 📒 Network, Server, DataBase, SQL, Oracle...
 - 그림으로 배우는 네트워크 원리
