@@ -53,6 +53,9 @@
 - 리액트 웹앱 제작 총론 2/e
 - Do it! 클론 코딩 영화 평점 웹서비스
 - ReactJS 이정도는 알아야지
+- 리액트 정복하기 컴포넌트와 라이프사이클 기반
+- React 16 핵심 정리 2/e
+- 실무 예제로 배우는 ReactJS 완전정복
 
 ### 📒 Network, Server, DataBase, SQL, Oracle...
 - 그림으로 배우는 네트워크 원리
