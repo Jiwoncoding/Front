@@ -47,7 +47,7 @@
 - 오늘부터 자바스크립트
 - Let's Get IT 자바스크립트 프로그래밍
 
-### 📗 React, Reactnative
+### 📗 React, ReactNative
 - 러닝리액트
 - 리액트 스타일 가이드
 - 리액트 웹앱 제작 총론 2/e
